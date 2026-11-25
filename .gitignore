@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+crop_env/
+
+# Dataset - do not upload
+data/
+*.zip
+*.tar.gz
+
+# Trained models
+models/*.keras
+models/*.h5
+models/*.pt
+models/*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Results and large output
+results/*.png
+results/*.jpg
+
+# Secrets
+.env
+kaggle.json
