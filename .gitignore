@@ -9,10 +9,10 @@ data/
 *.tar.gz
 
 # Trained models
-models/*.keras
-models/*.h5
-models/*.pt
-models/*.pkl
+# models/*.keras
+# models/*.h5
+# models/*.pt
+# models/*.pkl
 
 # Python cache
 __pycache__/
