@@ -1,0 +1,3 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Baseline CNN,98.56,98.58,98.56,98.56
+ResNet50 Transfer Learning,98.03,98.08,98.03,98.03

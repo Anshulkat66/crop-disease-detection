@@ -1,0 +1,5 @@
+{
+    "final_model": "Baseline CNN",
+    "model_path": "models/best_baseline_model.keras",
+    "reason": "Selected based on highest validation accuracy and overall evaluation metrics."
+}
